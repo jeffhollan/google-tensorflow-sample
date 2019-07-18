@@ -126,6 +126,5 @@ dmypy.json
 bin
 obj
 appsettings.json
-local.settings.json
 .python_packages
 google-tensorflow-sample.zip
